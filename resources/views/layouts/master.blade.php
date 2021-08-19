@@ -20,8 +20,11 @@
     <div class="container-fluid shadow-sm" style="background: rgba(4,91,98,1)">
         <div class="">
             <div class="d-flex justify-content-between align-content-between">
-                <img src="../icons/logo.jpg" class="rounded-circle" style="width: 80px;height: 60px;">
-                <h4>what is the problem and collage</h4>
+                <img src="../icons/logo.jpg" class="rounded-circle p-1" style="width: 80px;height: 60px;">
+
+                <h4 class="text-white pt-2">Shariatpur technical school and collage</h4>
+
+
            </div>
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">

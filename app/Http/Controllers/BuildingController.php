@@ -141,7 +141,7 @@ class BuildingController extends Controller
                                     return back()->with('status','something is error');
                                 }
                             }
-                            $book_categorys[$i]->delete();
+                            $book_categorys[$j]->delete();
 
                             if (Storage::delete('public/libarys_photos/'.$libarys[$i]->image)){
                                 $libarys[$i]->delete();

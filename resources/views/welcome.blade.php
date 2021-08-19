@@ -27,14 +27,14 @@
                     <tr>
                         <th>Principal</th>
                         <td>
-                            <a href="#" class=" font-italic">Engineer Sanuwere Hossain (Bsc in Mecanical)</a>
+                            <a href="#" class=" font-italic">Engineer</a>
                         </td>
                     </tr>
 
                     <tr>
                         <th>Head of Diploma in Engineering</th>
                         <td>
-                            <a href="#" class=" font-italic">Engineer Rafe Mahamud Khan (Msc in CSE)</a>
+                            <a href="#" class=" font-italic">alamin hossain R)</a>
                         </td>
                     </tr>
 
